@@ -1,5 +1,0 @@
-pymongo
-flask
-spacy
-flask_cors
-python-dotenv
